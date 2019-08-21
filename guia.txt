@@ -1,0 +1,15 @@
+backend:
+    yarn add express morgan mongoose multer
+
+    yarn add nodemon -D
+    file package.json:
+        "scripts":{
+            "dev": "nodemon src/server.js",
+            "start": "node src/server.js"
+        },
+    yarn dev
+
+    yarn add multer-s3
+    yarn add aws-sdk
+
+    yarn add dotenv
