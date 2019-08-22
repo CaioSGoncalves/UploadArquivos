@@ -13,3 +13,22 @@ backend:
     yarn add aws-sdk
 
     yarn add dotenv
+
+    yarn add cors
+
+frontend:
+    yarn create react-app frontend
+
+    yarn add styled-components
+
+    yarn add react-dropzone
+
+    yarn add react-circular-progressbar
+
+    yarn add react-icons
+
+    yarn add lodash
+
+    yarn add filesize
+
+    yarn add axios
